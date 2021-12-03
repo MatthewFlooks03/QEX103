@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:QEX103-PCB-cache
 EELAYER 30 0
 EELAYER END
 $Descr A0 46811 33110
@@ -3951,4 +3952,26 @@ Text GLabel 18500 15000 2    50   Input ~ 0
 ROW12
 Text GLabel 18500 15100 2    50   Input ~ 0
 ROW13
+$Comp
+L MCU_Microchip_AVR:AT90USB646-AU U?
+U 1 1 61AB8DDC
+P 9200 9350
+F 0 "U?" H 9200 7261 50  0000 C CNN
+F 1 "AT90USB646-AU" H 9200 7170 50  0000 C CNN
+F 2 "Package_QFP:TQFP-64_14x14mm_P0.8mm" H 9200 9350 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf" H 9200 9350 50  0001 C CNN
+	1    9200 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder SW?
+U 1 1 61AC42F0
+P 23550 9750
+F 0 "SW?" H 23780 9796 50  0000 L CNN
+F 1 "Rotary_Encoder" H 23780 9705 50  0000 L CNN
+F 2 "" H 23400 9910 50  0001 C CNN
+F 3 "~" H 23550 10010 50  0001 C CNN
+	1    23550 9750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
