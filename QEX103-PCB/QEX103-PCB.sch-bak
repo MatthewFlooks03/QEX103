@@ -3512,16 +3512,4 @@ F 3 "" H 18550 7150 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	18550 7000 18550 7150
-Text GLabel 19000 6900 0    50   Input ~ 0
-rotaryA
-Text GLabel 19000 7100 0    50   Input ~ 0
-rotaryB
-Wire Wire Line
-	19350 6900 19000 6900
-Wire Wire Line
-	19000 7100 19350 7100
-Text GLabel 11650 10100 2    50   Input ~ 0
-rotaryA
-Text GLabel 11650 10200 2    50   Input ~ 0
-rotaryB
 $EndSCHEMATC

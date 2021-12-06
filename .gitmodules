@@ -4,3 +4,12 @@
 [submodule "random-keyboard-parts.pretty"]
 	path = random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "QEX103-PCB/keebs.pretty"]
+	path = QEX103-PCB/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty
+[submodule "QEX103-PCB/keyboard_parts.pretty"]
+	path = QEX103-PCB/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty
+[submodule "QEX103-PCB/kicad_lib_tmk"]
+	path = QEX103-PCB/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk
