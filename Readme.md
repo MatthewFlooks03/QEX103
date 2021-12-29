@@ -9,7 +9,6 @@
 
 
 #### Key Layout
-![Keyboard Layout Render](/Reference 3D Model/Render.png)
+![Keyboard Layout Render](/renders/Render.png)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
