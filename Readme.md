@@ -1,13 +1,15 @@
-#QEX-103 Keyboard:
+# QEX-103 Keyboard:
 
-##Specs 
+## Specs 
 - 103 Keys w/ smooth rotary encoder
 - Plate Mounted Switches and Stabilisers
 - Single Color Backlighting (White)
 	
-##Renders:
+## Renders:
 
-![plot](./reference 3D Model/Render.png)
-####Key Layout
 
+#### Key Layout
+![Keyboard Layout Render](/Reference 3D Model/Render.png)
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
